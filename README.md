@@ -14,6 +14,7 @@ Sou um profissional multidisciplinar, com experiência consolidada em análise d
 🎯 Atuação Atual: Líder de Tempo de Dados
 
 📊 Áreas de Atuação: Análise de Dados, Estatística, Visualização de Dados, Inteligência Artificial
+
 🔧 Ferramentas e Tecnologias: Excel, Power BI, Looker, SQL, Python, Git, GitHub, Java, entre outras
 
 🚀 Sempre em busca de novos aprendizados e desafios na área de dados
